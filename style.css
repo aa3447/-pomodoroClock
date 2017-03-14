@@ -1,0 +1,51 @@
+
+html{
+    height: 100%;
+    font-size: 150%;
+}
+body{
+    background-color: black;
+    min-height: 100%;
+    color: gray;
+    
+}
+
+button{
+    background-color: Transparent;
+    color: gray;
+    border: none;
+    outline:none;
+    font-size: 1rem;
+}
+
+.frontMargin{
+    margin-right: 2vw;
+}
+.midMargin{
+    margin-left: 2vw;
+    margin-right: 2vw;
+}
+.endMargin{
+    margin-left: 2vw;
+}
+p{
+    position: relative;
+    bottom: 32.5%;
+    left: 80%;
+}
+#Clock{
+    font-family: 'Orbitron';
+    color: green;
+}
+#clockState{
+    font-size: 2rem;
+}
+
+
+
+  
+
+
+
+
+
